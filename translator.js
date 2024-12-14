@@ -79,7 +79,7 @@ const modelOptions = [
         group: 'Google Gemini',
         options: [
             { value: 'gemini-exp-1121', label: 'Gemini Experimental 1121' },
-            { value: 'gemini-exp-1114', label: 'Gemini Experimental 1114' },
+            { value: 'gemini-exp-1206', label: 'Gemini Experimental 1206' },
             { value: 'gemini-1.5-pro-002', label: 'Gemini 1.5 Pro (Latest)' },
             { value: 'gemini-1.5-pro-001', label: 'Gemini 1.5 Pro (Stable)' },
             { value: 'gemini-1.5-flash-002', label: 'Gemini 1.5 Flash (Latest)' },
